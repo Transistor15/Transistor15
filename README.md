@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Transistor15
-- 👀 I’m interested in Electronics Designing and PCB layout, IoT and servelss 
+- 👀 I’m interested in Electronics Designing and PCB layout, IoT and serverless 
 - 🌱 I’m currently learning Analogue circuit design and machine learning
 - 💞️ I’m looking to collaborate on African EduTech and IoT use cases for African businesses
 - 📫 How to reach me cephas@hcs.engineering
